@@ -10,7 +10,7 @@ If you look at the [Shoelace docs for form validation](https://shoelace.style/do
 
 Do this project in steps. Each step adds another layer of difficulty. Make sure and commit your code after each step, if not more often. Do not worry if you cannot complete all the steps!
 
-### Step 1
+## Step #1
 
 Each field is required. If there is no user input in that field, mark it as invalid.
 
